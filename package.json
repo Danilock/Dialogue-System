@@ -6,6 +6,13 @@
   "dependencies": {
     "com.unity.textmeshpro": "3.0.0"
   },
+  "samples" : [
+    {
+      "displayName": "HDRP Shaders",
+      "description": "Contains sample shaders for the High Definition render pipeline",
+      "path": "Samples~/Dialogue Prefab"
+    }
+  ],
   "keywords": [
     "unity",
     "unity3d",
