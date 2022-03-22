@@ -144,7 +144,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8423079510799425197}
   - component: {fileID: 8423079510799425199}
-  - component: {fileID: 8423079510799425198}
+  - component: {fileID: 4686045599812803646}
   m_Layer: 5
   m_Name: Dialogue UI - Parent Obj
   m_TagString: Untagged
@@ -181,7 +181,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8423079510799425196}
   m_CullTransparentMesh: 1
---- !u!114 &8423079510799425198
+--- !u!114 &4686045599812803646
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -190,14 +190,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 8423079510799425196}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3cbf883320be5cb48958241a42cd500b, type: 3}
+  m_Script: {fileID: 11500000, guid: 864bf649f172d4c4890129cbe2839eaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _sentenceText: {fileID: 8423079510728050004}
-  _characterName: {fileID: 8423079512241026360}
-  _group: {fileID: 8423079511215018874}
-  _buttonPrefab: {fileID: 2036694065889628, guid: a90e4f5150010a84ba2fdaaea38b386b, type: 3}
-  _buttonsContainer: {fileID: 8423079510920608566}
+  _sentenceText: {fileID: 0}
+  _characterName: {fileID: 0}
+  _group: {fileID: 0}
+  _buttonPrefab: {fileID: 0}
+  _buttonsContainer: {fileID: 0}
   _instantiatedButtons: []
 --- !u!1 &8423079510920608566
 GameObject:

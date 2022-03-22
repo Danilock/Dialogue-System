@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3604854603350518205}
   - component: {fileID: 3604854603350518207}
-  - component: {fileID: 3604854603350518204}
+  - component: {fileID: 5070554416219320541}
   m_Layer: 0
   m_Name: Dialogue Audio
   m_TagString: Untagged
@@ -128,7 +128,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &3604854603350518204
+--- !u!114 &5070554416219320541
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -137,10 +137,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 3604854603350518202}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 748b9a9f0e7ca184e8923ba3f971387d, type: 3}
+  m_Script: {fileID: 11500000, guid: 6126b5541aa1bcd458b604924290961c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _source: {fileID: 3604854603350518207}
+  _source: {fileID: 0}
 --- !u!1 &3604854605069440601
 GameObject:
   m_ObjectHideFlags: 0
@@ -150,7 +150,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3604854605069440603}
-  - component: {fileID: 3604854605069440600}
+  - component: {fileID: 3467692171198520574}
   m_Layer: 0
   m_Name: Dialogue Manager
   m_TagString: Untagged
@@ -173,7 +173,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3604854605069440600
+--- !u!114 &3467692171198520574
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -182,10 +182,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 3604854605069440601}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 15d65cdf037476a449523440102c6753, type: 3}
+  m_Script: {fileID: 11500000, guid: a72742662582a1d4aa9c813e8ee09109, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxDistance: 3
+  _maxDistance: 0
   _player: {fileID: 0}
   _initiator: {fileID: 0}
   _canCheckDistance: 0
