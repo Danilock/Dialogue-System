@@ -10,16 +10,16 @@
     "3d-group",
     "utility"
   ],
-  "homepage": "https://github.com/3d-group/unity-package-template.git",
+  "homepage": "https://github.com/Danilock/Dialogue-System.git",
   "bugs": {
     "url": "https://github.com/3d-group/unity-package-template/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/3d-group/unity-package-template.git"
+    "url": "git+ssh://git@github.com/Danilock/dialogue-system.git"
   },
   "license": "MIT",
-  "author": "3D Group (https://3d.fi/)",
+  "author": "Danilock",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
