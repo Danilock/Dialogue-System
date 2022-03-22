@@ -1,0 +1,16 @@
+{
+    "name": "danilock.dialoguesystem.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:39ee9eedbe7c77647afa0b1a59bf0d5f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
