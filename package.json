@@ -1,7 +1,7 @@
 {
   "name": "com.3d-group.unity-package-template",
   "displayName": "Dialogue System",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Dialogue System tool for Unity",
   "dependencies": {
     "com.unity.textmeshpro": "3.0.0"
