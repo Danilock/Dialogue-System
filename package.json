@@ -1,0 +1,28 @@
+{
+  "name": "com.3d-group.unity-package-template",
+  "displayName": "Dialogue System",
+  "version": "1.0.1",
+  "description": "Sialogue System tool for Unity",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "upm",
+    "3d-group",
+    "utility"
+  ],
+  "homepage": "https://github.com/3d-group/unity-package-template.git",
+  "bugs": {
+    "url": "https://github.com/3d-group/unity-package-template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/3d-group/unity-package-template.git"
+  },
+  "license": "MIT",
+  "author": "3D Group (https://3d.fi/)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "unity": "2018.3",
+  "unityRelease": "0b5"
+}
