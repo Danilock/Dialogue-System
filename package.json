@@ -8,7 +8,7 @@
   },
   "samples" : [
     {
-      "displayName": "HDRP Shaders",
+      "displayName": "Dialogue UI Prefab",
       "description": "Contains sample shaders for the High Definition render pipeline",
       "path": "Samples~/Dialogue Prefab"
     }
