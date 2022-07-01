@@ -18,7 +18,7 @@ namespace DialogueSystem
         private DialogueConversation _dialogueConversation;
         private DialogueConversation _conversationToLoad;
 
-        [MenuItem("Graph/Narrative Graph")]
+        [MenuItem("Dialogue System/Create Dialogue")]
         public static void CreateGraphViewWindow()
         {
             var window = GetWindow<StoryGraph>();
